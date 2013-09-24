@@ -2,6 +2,8 @@
 
 A very simple JavaScript API wrapping the [command-line combo of phantomjs and yslow](http://yslow.org/phantomjs/).
 
+[![Build Status](https://travis-ci.org/testdouble/yslow-grader.png)](https://travis-ci.org/testdouble/yslow-grader)
+
 Right now, it's a dead simple usage. Something like this:
 
 ``` javascript
