@@ -1,0 +1,24 @@
+{
+  "name": "yslow-grader",
+  "title": "Invokes phantomjs-yslow and then provides the results as a digestible object",
+  "version": "0.0.1",
+  "author": {
+    "name": "Justin Searls",
+    "company": "Test Double",
+    "email": "justin@testdouble.com"
+  },
+  "main": "lib/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/testdouble/yslow-grader.git"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-jasmine-bundle": "~0.0.2",
+    "express": "~3.4.0"
+  }
+}
