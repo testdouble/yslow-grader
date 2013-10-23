@@ -7,7 +7,7 @@
     "company": "Test Double",
     "email": "justin@testdouble.com"
   },
-  "main": "lib/main.js",
+  "main": "main.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/testdouble/yslow-grader.git"
